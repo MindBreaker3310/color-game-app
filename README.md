@@ -1,4 +1,4 @@
-# cv-app
+# color-game-app
 
 ## Project setup
 ```
