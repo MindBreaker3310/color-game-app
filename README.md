@@ -1,7 +1,7 @@
 # color-game-app
 [遊戲連結] https://color-blind-game-f8385.web.app/
 
-<img src="https://github.com/MindBreaker3310/color-game-app/blob/master/demo.gif" width:auto height: 600px>
+<img src="https://github.com/MindBreaker3310/color-game-app/blob/master/demo.gif" width = "auto" height = "600px">
 
 ## 🚩技術
 
