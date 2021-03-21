@@ -1,24 +1,14 @@
 # color-game-app
 
-## Project setup
-```
-npm install
-```
+## 🚩技術
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+**vue**：前端框架
+**vue-router**：Vue路由管理器
+**ES6**：ECMAScript 6 JavaScript語法
 
-### Compiles and minifies for production
-```
-npm run build
-```
+## 💪收穫
 
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+1. 了解vue元件、事件監聽、屬性綁定、數據綁定等基礎
+2. 了解了 vue 元件之間的溝通
+3. 學會css 基礎動畫的應用
+4. 學會vue-router控制路由
